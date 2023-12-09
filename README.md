@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Ansible-Configuration_Management-yellow?style=flat&logo=ansible&logoColor=black" alt="Ansible Configuration Management" width="600"/>
+<img src="https://img.shields.io/badge/Ansible-Configuration_Management-yellow?style=flat&logo=ansible&logoColor=black" alt="Ansible Configuration Management" width="1000"/>
 
 
 ## Overview
