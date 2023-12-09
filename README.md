@@ -119,8 +119,6 @@ The directory structure for this Ansible role follows the standard conventions
             |-- templates/
             |-- tests/
             |-- vars/
-            |-- .github/
-            |-- LICENSE
             |-- README.md
 ```
 1. `tasks/`
