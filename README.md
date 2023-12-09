@@ -25,7 +25,7 @@ Configuration management tool used by DevOps engineers to automate the process o
 
 Ansible is a configuration management tool that operates on a push mechanism. Unlike some other tools like Puppet and Chef, Ansible is agentless, supports both Windows and Linux environments, and uses YAML as its configuration language.
 
-### Key Features of Ansible
+## Key Features of Ansible
 
 1. **Push Mechanism:**
    Ansible uses a push mechanism, allowing you to write playbooks on your local machine and push the configurations to multiple servers.
