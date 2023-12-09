@@ -3,25 +3,25 @@
 
 ## Overview
 
-configuration management tool used by DevOps engineers to automate the process of configuring servers. It facilitates tasks such as patching, upgrading, and installing software on multiple servers simultaneously.
+Configuration management tool used by <strong> DevOps </strong> engineers to automate the process of configuring servers. It facilitates tasks such as patching, upgrading, and installing software on multiple servers simultaneously.
 
 ## What is Ansible?
 
-Ansible is a configuration management tool that operates on a push mechanism. Unlike some other tools like Puppet and Chef, Ansible is agentless, supports both Windows and Linux environments, and uses YAML as its configuration language.
+Ansible is a configuration management tool that operates on a push mechanism. Unlike some other tools like <strong> Puppet </strong>  and <strong>Chef </strong>, <strong>Ansible</strong> is agentless, supports both Windows and Linux environments, and uses YAML as its configuration language.
 
 ### Key Features of Ansible
 
 1. **Push Mechanism:**
-   Ansible uses a push mechanism, allowing you to write playbooks on your local machine and push the configurations to multiple servers.
+   Ansible uses a <strong>push mechanism</strong>, allowing you to write playbooks on your local machine and push the configurations to multiple servers.
 
 2. **Agentless:**
-   Ansible doesn't require agents to be installed on target servers. It uses passwordless authentication, making it easy to connect to servers from your local machine.
+   Ansible doesn't require agents to be installed on target servers. It uses <strong>passwordless</strong> authentication, making it easy to connect to servers from your local machine.
 
 3. **Cross-Platform Support:**
    Ansible supports both Windows and Linux environments, making it versatile for managing diverse server infrastructures.
 
 4. **YAML Language:**
-   Configuration in Ansible is written in YAML, a human-readable and globally recognized language, making it easy to understand and write playbooks.
+   Configuration in Ansible is written in <strong>YAML</strong>, a human-readable and globally recognized language, making it easy to understand and write playbooks.
 
 ## Getting Started with Ansible
 
