@@ -35,7 +35,7 @@ To install Ansible, follow these steps:
    sudo apt-get update
    sudo apt install ansible
    ```
-## Passwordless Authentication Setup
+##  Step 1: Passwordless Authentication Setup
 1. Generate an SSH key pair on the `ansible-server` using the following command:
    ```bash
    ssh-keygen 
