@@ -17,7 +17,7 @@
 
 ## Overview
 
-configuration management tool used by DevOps engineers to automate the process of configuring servers. It facilitates tasks such as patching, upgrading, and installing software on multiple servers simultaneously.
+Configuration management tool used by DevOps engineers to automate the process of configuring servers. It facilitates tasks such as patching, upgrading, and installing software on multiple servers simultaneously.
 
 
 
